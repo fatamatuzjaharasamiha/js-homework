@@ -7,3 +7,7 @@ function celciusToFarenheit(celcius) {
 }
 var result = celciusToFarenheit(30);
 console.log('30 degree celcius = ', result);
+var result = celciusToFarenheit(20);
+console.log('20 degree celcius = ', result);
+var result = celciusToFarenheit(50);
+console.log('50 degree celcius = ', result);
